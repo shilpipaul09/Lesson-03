@@ -1,5 +1,5 @@
 # simple-java-maven-app
-
+Added Change for Practice Lesson 3.11
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
